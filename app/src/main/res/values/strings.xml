@@ -44,6 +44,11 @@
     <string name="batteryLevelTooHigh">Batter Level shouldn\'t exceed 100</string>
     <string name="batteryLevelIncorrect">Please enter a number between 0 and 100</string>
 
+    <!-- Battery Service -->
+    <string name="colorPickerService_name">Color Picker Service</string>
+    <string name="colorValueTooHigh">Color Value shouldn\'t exceed 255</string>
+    <string name="colorValueIncorrect">Please enter a number between 0 and 255</string>
+
     <!-- Hear Rate Service -->
     <string name="label_bodySensorLocation">Body Sensor Location</string>
     <string name="heartRateServiceName">Heart Rate Service</string>
